@@ -1,5 +1,9 @@
 dependencies=$(which jq)
 
+function check() {
+
+}
+
 if [ -z "${dependencies}" ]; then
 
 fi

@@ -1,0 +1,8 @@
+[package]
+name = "main"
+version = "0.1.0"
+authors = ["Hervé Beraud <herveberaud.pro@gmail.com>"]
+
+[dependencies]
+hyper = "*"
+hyper-tls = "*"
